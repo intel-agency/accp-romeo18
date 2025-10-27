@@ -2,7 +2,7 @@
     {
         "id": 8775985735,
         "node_id": "LA_kwDOOpTlG88AAAACCxbqRw",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/assigned",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/assigned",
         "name": "assigned",
         "color": "0052cc",
         "default": false,
@@ -11,7 +11,7 @@
     {
         "id": 8849517733,
         "node_id": "LA_kwDOOpTlG88AAAACD3jspQ",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/assigned:copilot",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/assigned:copilot",
         "name": "assigned:copilot",
         "color": "ededed",
         "default": false,
@@ -20,7 +20,7 @@
     {
         "id": 8606841780,
         "node_id": "LA_kwDOOpTlG88AAAACAQH7tA",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/bug",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/bug",
         "name": "bug",
         "color": "d73a4a",
         "default": true,
@@ -29,7 +29,7 @@
     {
         "id": 8606841791,
         "node_id": "LA_kwDOOpTlG88AAAACAQH7vw",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/documentation",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/documentation",
         "name": "documentation",
         "color": "0075ca",
         "default": true,
@@ -38,7 +38,7 @@
     {
         "id": 8606841799,
         "node_id": "LA_kwDOOpTlG88AAAACAQH7xw",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/duplicate",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/duplicate",
         "name": "duplicate",
         "color": "cfd3d7",
         "default": true,
@@ -47,7 +47,7 @@
     {
         "id": 8606841807,
         "node_id": "LA_kwDOOpTlG88AAAACAQH7zw",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/enhancement",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/enhancement",
         "name": "enhancement",
         "color": "a2eeef",
         "default": true,
@@ -56,7 +56,7 @@
     {
         "id": 8606841817,
         "node_id": "LA_kwDOOpTlG88AAAACAQH72Q",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/good%20first%20issue",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/good%20first%20issue",
         "name": "good first issue",
         "color": "7057ff",
         "default": true,
@@ -65,7 +65,7 @@
     {
         "id": 8606841810,
         "node_id": "LA_kwDOOpTlG88AAAACAQH70g",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/help%20wanted",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/help%20wanted",
         "name": "help wanted",
         "color": "008672",
         "default": true,
@@ -74,7 +74,7 @@
     {
         "id": 8606841820,
         "node_id": "LA_kwDOOpTlG88AAAACAQH73A",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/invalid",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/invalid",
         "name": "invalid",
         "color": "e4e669",
         "default": true,
@@ -83,7 +83,7 @@
     {
         "id": 8606841826,
         "node_id": "LA_kwDOOpTlG88AAAACAQH74g",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/question",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/question",
         "name": "question",
         "color": "d876e3",
         "default": true,
@@ -92,7 +92,7 @@
     {
         "id": 8776078411,
         "node_id": "LA_kwDOOpTlG88AAAACCxhUSw",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/state",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/state",
         "name": "state",
         "color": "b17457",
         "default": false,
@@ -101,7 +101,7 @@
     {
         "id": 8849517735,
         "node_id": "LA_kwDOOpTlG88AAAACD3jspw",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/state:in-progress",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/state:in-progress",
         "name": "state:in-progress",
         "color": "ededed",
         "default": false,
@@ -110,7 +110,7 @@
     {
         "id": 8849557410,
         "node_id": "LA_kwDOOpTlG88AAAACD3mHog",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/state:planning",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/state:planning",
         "name": "state:planning",
         "color": "ededed",
         "default": false,
@@ -119,7 +119,7 @@
     {
         "id": 8849557406,
         "node_id": "LA_kwDOOpTlG88AAAACD3mHng",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/type:enhancement",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/type:enhancement",
         "name": "type:enhancement",
         "color": "ededed",
         "default": false,
@@ -128,7 +128,7 @@
     {
         "id": 8606841835,
         "node_id": "LA_kwDOOpTlG88AAAACAQH76w",
-        "url": "https://api.github.com/repos/nam20485/AgentAsAService/labels/wontfix",
+        "url": "https://api.github.com/repos/intel-agency/accp-romeo18/labels/wontfix",
         "name": "wontfix",
         "color": "ffffff",
         "default": true,

@@ -2,7 +2,7 @@
 
 Use a branch and PR to:
 
-Implement running instances of this template repo in docker containers as dynamic workflow agents. The goal is to run this repo in a docker container by using the .workflow/prompt.sh script as the entrypoint.
+Implement running instances of this accp-romeo18 repo in docker containers as dynamic workflow agents. The goal is to run this repo in a docker container by using the .workflow/prompt.sh script as the entrypoint.
 
 Use the  "ghcr.io/nam20485/agents-prebuild:main-latest" image as your base image.
 
