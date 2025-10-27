@@ -79,12 +79,6 @@
 			"url": "https://mcp.deepwiki.com/sse",
 			"type": "http"
 		},
-		"playwright": {
-			"command": "npx",
-			"args": [
-				"@playwright/mcp@latest"
-			]
-		},
 		"puppeteer": {
 			"command": "npx",
 			"args": [
