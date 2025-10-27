@@ -5,7 +5,7 @@
 FROM ghcr.io/nam20485/agents-prebuild:main-latest
 
 # Metadata
-LABEL org.opencontainers.image.title="AI New App Template - Dockerized Workflow Agent"
+LABEL org.opencontainers.image.title="ACCP Romeo18 - Dockerized Workflow Agent"
 LABEL org.opencontainers.image.description="Containerized AI workflow orchestration with Claude CLI"
 LABEL org.opencontainers.image.version="1.0.0"
 LABEL org.opencontainers.image.authors="nam20485"

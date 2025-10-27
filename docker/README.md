@@ -7,7 +7,7 @@ Dockerized AI workflow orchestration system for running dynamic workflows in iso
 ### 1. Build the Image
 
 ```bash
-cd /path/to/ai-new-app-template
+cd /path/to/accp-romeo18
 docker build -t workflow-agent:latest -f docker/Dockerfile .
 ```
 

@@ -1,7 +1,7 @@
 # Dockerization Plan for Dynamic Workflow Agents
 
 ## Executive Summary
-This plan outlines the approach to containerize the ai-new-app-template workflow agents, enabling them to run as isolated, automated agents in Docker containers directly through the hardened `.workflow/prompt.sh` runner.
+This plan outlines the approach to containerize the accp-romeo18 workflow agents, enabling them to run as isolated, automated agents in Docker containers directly through the hardened `.workflow/prompt.sh` runner.
 
 ## Current State Analysis
 
